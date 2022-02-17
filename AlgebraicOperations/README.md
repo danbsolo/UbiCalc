@@ -1,3 +1,3 @@
-# AlgebraicOperations
+# AlgebraicOperations Features
 
-S'more placeholder text, also for now.
+Placeholder text.

@@ -1,3 +1,3 @@
-# UbiCalc
+# Features
 
-Placeholder text, for now.
+Placeholder text.
