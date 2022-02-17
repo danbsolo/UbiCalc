@@ -1,7 +1,7 @@
 from sys import exit
 
 def main():
-    sourceMath = "2(3)($frac{3[}2}#)($frac{3}{55}#)"
+    sourceMath = "2(3)($frac{3}{2}#)($frac{3}{55}#)"
     print(solveSimpleExpression(sourceMath))
 
 
